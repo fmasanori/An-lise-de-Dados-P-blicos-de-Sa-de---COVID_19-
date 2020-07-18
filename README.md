@@ -1,2 +1,16 @@
 # Analise de Dados Publicos Saude - COVID_19
-Análise de Dados Públicos de Saúde -  (COVID_19)
+
+Este código tem a finalidade de verificar os dados do Covid -19.
+
+O download dos CSVs compactados pode ser feito em: https://data.brasil.io/dataset/covid1...
+
+Como os dados estão compactados, você precisará baixar e descompactar na pasta.
+
+
+Aprenda a usar o pacote resquests para baixar dados da covid-19 compilados pelo Brasil.IO a partir das informações das secretarias de saúde dos estados.
+
+Aqui fazemos uso da função requests, e obtemos dados no formato json. 
+
+Fonte: Secretarias de Saúde das Unidades Federativas, dados tratados por Álvaro Justen e equipe de voluntários https://Brasil.IO
+
+Link do notebook: https://drive.google.com/file/d/1RNxD...
